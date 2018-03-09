@@ -1,0 +1,6 @@
+[package]
+name = "faina"
+version = "0.1.0"
+authors = ["shmutalov <shmutalov@gmail.com>"]
+
+[dependencies]
