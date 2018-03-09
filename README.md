@@ -17,13 +17,13 @@ cargo build
 ### Current version
 ```toml
 [dependencies]
-gitter = "0.1.0"
+faina = "0.1.0"
 ```
 
 ### Development version
 ```toml
 [dependencies]
-gitter = { git = "https://github.com/shmutalov/faina" }
+faina = { git = "https://github.com/shmutalov/faina" }
 ```
 
 This project is a work in progress.
